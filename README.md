@@ -16,11 +16,9 @@ Maximum possible flow in each augmenting path found (Minimum of the edge capacit
   Next m lines : <edge from>	<edge to>	<edge capacitiy>  <br>
   Last line : <source vertex>	<sink vertex>
 
-
 -------------------------------------------------------------------------------------------------------
 
 ### BIPARTITE MATCHING (Hopcraft-Karp Algorithm)
-
 
 * Finds maximum matching in the graph and prints to terminal 
 * Vertex numbering starts from 1
